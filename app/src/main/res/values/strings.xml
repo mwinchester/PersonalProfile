@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Meri</string>
+    <string name="txt_caption">Meri and Ollie-Bear</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Mer loves dogs and has two Bouvier Des Flanders. She is working on a Ph.D.
+    in Instructional Design, and teaches at MCC. In her spare time she studies Shotokan Karate
+    and Yoga.</string>
+</resources>
